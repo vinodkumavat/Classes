@@ -1,0 +1,112 @@
+
+
+.heading                            
+{
+    background: blue;
+    color: white;
+    padding: 0.1px 10px;
+    border-bottom: 2px solid black;
+}
+.heading header a             /*for KUMAVAT top of page*/
+{
+    text-decoration: none;
+    color: white;
+    font-style: unset
+}
+.heading header h2             /*for The path of Success top of page*/
+{
+    color: white;
+    font-style: italic;
+}
+
+
+
+
+
+/* For Teaching Faculty */
+
+.TeachingFaculty
+{
+    background: honeydew;
+    color: gray;
+    overflow-x: auto;
+    overflow-y: hidden;
+    text-align: center;
+    height: 380px;
+    padding: 20px 15px;
+    margin-top: 20px;
+}
+.TeachingFaculty h3
+{
+    color: black;
+}
+.block
+{
+    float: left;
+    margin: auto 12px;
+
+}
+
+/* End of teaching faculty */
+
+
+
+
+
+
+/* For Director's Message */
+
+.Message h2, .Message img
+{
+    text-align: center;
+    margin-top: 0px;
+    padding: 0px 20px;
+}
+.Message h3
+{
+    text-align: center;
+    background: grey;
+    color: black;
+    padding: 20px;
+    margin-top: auto;
+}
+
+/* End of director's message */
+
+
+
+
+
+.Buttom
+{
+    background: blue;
+    color: white;
+    text-align: center;
+    padding: 30px 15px 2px 15px;
+}
+.Follow a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.Address
+{
+    width: 99%;
+}
+.Address1
+{
+    float: left;
+    width: 32%;
+}
+.Address2
+{
+    display: inline-block;
+    margin: 0 auto;
+    width: 32%;
+}
+.Address3
+{
+    float: right;
+    width: 32%;
+}

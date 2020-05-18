@@ -1,0 +1,113 @@
+
+
+.heading                            
+{
+    background: blue;
+    color: white;
+    padding: 0.1px 10px;
+    border-bottom: 2px solid black;
+}
+.heading header a             /*for KUMAVAT top of page*/
+{
+    text-decoration: none;
+    color: white;
+    font-style: unset
+}
+.heading header h2             /*for The path of Success top of page*/
+{
+    color: white;
+    font-style: italic;
+}
+
+
+
+
+.Detail h2
+{
+    text-align: center;
+    background: grey;
+    color: black;
+    padding: 20px;
+    margin-top: auto;
+    margin-bottom: 40px;
+}
+
+
+
+
+.boxes
+{
+    width: 99%;
+}
+#coloum1
+{
+    float: left;
+    width: 32%;
+}
+#coloum1 b
+{
+    text-align: center;
+    color: red;
+}
+#coloum2
+{
+    display: inline-block;
+    margin: 0 auto;
+    width: 32%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#coloum2 b
+{
+    text-align: center;
+    color: green;
+}
+#coloum3
+{
+    float: right;
+    width: 32%;
+}
+#coloum3 b
+{
+    text-align: center;
+    color: blueviolet;
+}
+
+
+
+
+
+
+.Buttom
+{
+    background: blue;
+    color: white;
+    text-align: center;
+    padding: 30px 15px 2px 15px;
+}
+.Follow a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.Address
+{
+    width: 99%;
+}
+.Address1
+{
+    float: left;
+    width: 32%;
+}
+.Address2
+{
+    display: inline-block;
+    margin: 0 auto;
+    width: 32%;
+}
+.Address3
+{
+    float: right;
+    width: 32%;
+}

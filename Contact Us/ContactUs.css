@@ -1,0 +1,89 @@
+
+
+.heading                            
+{
+    background: blue;
+    color: white;
+    padding: 0.1px 10px;
+    border-bottom: 2px solid black;
+}
+.heading header a             /*for KUMAVAT top of page*/
+{
+    text-decoration: none;
+    color: white;
+    font-style: unset
+}
+.heading header h2             /*for The path of Success top of page*/
+{
+    color: white;
+    font-style: italic;
+}
+
+
+
+
+
+.Submission h2
+{
+    text-align: center;
+    background: grey;
+    color: black;
+    padding: 20px;
+    margin-top: auto;
+}
+.Submission p
+{
+    text-align: center;
+    color: black;
+    background: honeydew;
+    padding: 20px;
+}
+
+
+
+
+
+.EnquiryForm
+{
+    text-align: center;
+    color: black;
+    background: honeydew;
+    padding: 20px;
+}
+
+
+
+
+.Buttom
+{
+    background: blue;
+    color: white;
+    text-align: center;
+    padding: 30px 15px 2px 15px;
+}
+.Follow a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.Address
+{
+    width: 99%;
+}
+.Address1
+{
+    float: left;
+    width: 32%;
+}
+.Address2
+{
+    display: inline-block;
+    margin: 0 auto;
+    width: 32%;
+}
+.Address3
+{
+    float: right;
+    width: 32%;
+}

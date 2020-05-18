@@ -1,0 +1,74 @@
+
+.heading                            
+{
+
+    background: blue;
+    color: white;
+    padding: 0.1px 10px;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+.heading p a                     /*for Home, Fee Structure, Contact*/
+{
+    text-decoration: none;
+    color: white;
+}
+
+.heading p select option                   /*for Home, Fee Structure, Contact*/
+{
+    color: white;
+    background: black;
+}
+.heading header a             /*for KUMAVAT top of page*/
+{
+    color: white;
+    font-style: unset;
+    text-align: left;
+}
+.heading header h2             /*for The path of Success top of page*/
+{
+    color: white;
+    font-style: italic;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+.Buttom
+{
+    background: blue;
+    color: white;
+    text-align: center;
+    padding: 30px 15px 2px 15px;
+}
+.Follow a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.Address
+{
+    width: 99%;
+}
+.Address1
+{
+    float: left;
+    width: 32%;
+}
+.Address2
+{
+    display: inline-block;
+    margin: 0 auto;
+    width: 32%;
+}
+.Address3
+{
+    float: right;
+    width: 32%;
+}

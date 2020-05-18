@@ -1,0 +1,186 @@
+
+.heading                            
+{
+
+    background: blue;
+    color: white;
+    padding: 0.1px 10px;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+.heading p a                     /*for Home, Fee Structure, Contact*/
+{
+    text-decoration: none;
+    text-decoration: none;
+    color: white;
+}
+
+.heading p select option                   /*for Home, Fee Structure, Contact*/
+{
+    color: white;
+    background: black;
+}
+.heading header a             /*for KUMAVAT top of page*/
+{
+    text-decoration: none;
+    text-decoration: none;
+    color: white;
+    font-style: unset;
+    text-align: left;
+}
+.heading header h2             /*for The path of Success top of page*/
+{
+    color: white;
+    font-style: italic;
+    text-align: left;
+}
+
+
+
+
+.boxes
+{
+    width: 98%;
+    text-align: center;
+    height: 250px;
+    color: black;
+    background: honeydew;
+    padding: 20px;
+}
+#coloum1
+{
+    float: left;
+    width: 49%;
+    text-align: left;
+}
+#coloum2
+{
+    display: inline-block;
+    margin: 0 auto;
+    width: 25%;
+    border-radius: 30px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+
+
+
+.OurCourses
+{
+    width: 99%;
+    text-align: center;
+    color: black;
+    background: blanchedalmond;
+    padding: 20px 15px 20px;
+    border-bottom: 1px solid black;
+}
+.Left
+{
+    float: left;
+    width: 32%;
+    padding-right: 1.5%;
+}
+.Center
+{
+    display: inline-block;
+    margin: 0 auto;
+    width: 32%;
+}
+.Right
+{
+    float: right;
+    width: 32%;
+    padding-left: 1.5%;
+}
+
+
+
+
+
+.TeachingFaculty
+{
+    background: honeydew;
+    color: gray;
+    overflow-x: auto;
+    overflow-y: hidden;
+    text-align: center;
+    height: 380px;
+    padding: 20px 15px;
+    margin-top: 20px;
+}
+.TeachingFaculty h3
+{
+    color: black;
+}
+.block
+{
+    float: left;
+    margin: auto 12px;
+
+}
+
+
+
+
+.StudentsFeedback
+{
+    width: 98%;
+    text-align: center;
+    height: 250px;
+    color: black;
+    background: honeydew;
+    padding: 20px;
+}
+.StudentsFeedback img
+{
+    border-radius: 50px;
+}
+#Amisha
+{
+    float: left;
+    width: 49%;
+}
+#Virat
+{
+    display: inline-block;
+    margin: 0 auto;
+    width: 25%;
+}
+
+
+
+.Buttom
+{
+    background: blue;
+    color: white;
+    text-align: center;
+    padding: 30px 15px 2px 15px;
+}
+.Follow a
+{
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+}
+
+.Address
+{
+    width: 99%;
+}
+.Address1
+{
+    float: left;
+    width: 32%;
+}
+.Address2
+{
+    display: inline-block;
+    margin: 0 auto;
+    width: 32%;
+}
+.Address3
+{
+    float: right;
+    width: 32%;
+}
